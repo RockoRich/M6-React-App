@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0%;
+}
+
+.cardLogin {
+  display: flex;
+  align-items: center;
+  height: 430px;
+  width: 400px;
+  margin-top: 60px;
+}
+
+#email {
+  width: 300px;
+}
+
+.loginBTN {
+  width: 150px;
+}
+
+.cardRegister {
+  display: flex;
+  align-items: center;
+  height: 480px;
+  width: 400px;
+}
+
+
+.carousel {
+  width: 75%;
+  margin: auto;
+}
+
+
+.image {
+  width: 100%;
+}
+
+#bg-black {
+  background-color: black;
+}
+
+.customers {
+  width: 65%;
+}
